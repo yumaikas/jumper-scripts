@@ -13,5 +13,6 @@
        (os/cd "build")
        (os/shell "inst jd-jump.exe")
        (os/cd "..")
+       (os/shell "inst jj.bat")
        (print "Installed"))
 
