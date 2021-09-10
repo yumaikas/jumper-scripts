@@ -1,6 +1,8 @@
 (declare-project 
       :name "jd"
-      :description "A small utility script for helping jump to JD folders by their digits")
+      :description "A small utility script for helping jump to JD folders by their digits"
+      :author "Andrew Owen <yumaikas94@gmail.com>"
+      :url "https://github.com/yumaikas/jd")
 
 
 (declare-executable 
